@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi I'm Samuel Norman 👋
+
+### Major
+Currently I am freshman studying Computer Science, Bachelor of Science at Wright State University.
+
+### Projects 
+Two projects that I am going to work on this semseter is my Dungeon Crawler Game in which you fight creatures and try to escape the dungeon, and my second project is similar to the Spelling Bee found on New York Times, where the player is provided 7 letters from 10 possible words, and the goal is to make as many words as the player can in order to score points. 
+
 
 <!--
 **SamuelVNorman/SamuelVNorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
